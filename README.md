@@ -1,6 +1,6 @@
 # Leave Management System
 
-A role-based web application for managing employee leave requests, balances, and administrative approvals.
+A role-based web application for managing employee leave requests and administrative approvals.
 
 ---
 
