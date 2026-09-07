@@ -13,6 +13,7 @@ A role-based web application for managing employee leave requests, balances, and
 
 ## Project Structure
 
+<img width="355" height="873" alt="image" src="https://github.com/user-attachments/assets/9ab187a1-f27a-4428-93f4-7d983fc19d60" />
 
 ---
 
@@ -83,35 +84,14 @@ A role-based web application for managing employee leave requests, balances, and
 - `GET /all` — Get all employee leave requests
 - `PUT /:id/status` — Approve or reject a leave request
 
+## Website Preview Images
 
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/33bb6c10-3b10-4d7e-90be-305448ab3a0f" />
 
+<img width="1913" height="920" alt="image" src="https://github.com/user-attachments/assets/e5a0c753-6945-4bd3-940e-2a10ced9c236" />
 
+<img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/09dc10f1-afb8-4498-a10b-d19db16d6c8a" />
 
-# FeedbackHub — Full-Stack Feedback Collector
+<img width="1917" height="923" alt="image" src="https://github.com/user-attachments/assets/55b9efd1-2377-4ad7-85a0-350e28cdb992" />
 
-Frontend: React, Vue
-Backend: Node.js with Express
-Database: MongoDB
-
-Key features :- 
-    Submission Form - Collect user names, email addresses, numerical ratings, and detailed text comments.
-    Admin Dashboard: Build a secure view to list, filter, and analyze incoming feedback entries in real time.
-
-Frontend Folder Structure - 
-
-<img width="262" height="721" alt="image" src="https://github.com/user-attachments/assets/2f721a8a-c64e-4a1e-a03e-c2c5c98f4035" />
-
-
-command to run frontend -
-    npm run dev
-
-Backend Folder Structure -
-
-<img width="260" height="393" alt="image" src="https://github.com/user-attachments/assets/080e59e8-e387-488f-9441-ef997b3f8a6e" />
-
-command to run Backend -
-    node server.js
-
-
-
-<img width="1846" height="929" alt="image" src="https://github.com/user-attachments/assets/91e83c22-ed46-4cc6-849e-96d504efc221" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/4350ed93-b28c-4345-b64a-0a5bab323d6d" />
