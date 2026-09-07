@@ -6,8 +6,8 @@ A role-based web application for managing employee leave requests and administra
 
 ## Tech Stack
 
-- **Frontend:** React 19, Vite, Tailwind CSS v4, Lucide React, React Router
-- **Backend:** Node.js, Express 5, MongoDB (Mongoose), JWT Authentication, bcryptjs
+- **Frontend:** React 19, Vite, Tailwind CSS, Lucide React, React Router
+- **Backend:** Node.js, Express, MongoDB (Mongoose), JWT Authentication, bcryptjs
 
 ---
 
